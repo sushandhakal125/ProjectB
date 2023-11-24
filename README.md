@@ -1,0 +1,1 @@
+All the steps are complete, and as you can see, I have included the interruptHandler in kernel.c and build functions like readString and readSectors to take in user input and succcessfully print it in the simulator (in their respective sector)
